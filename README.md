@@ -39,7 +39,6 @@ Step 8: Windows 10 is now being downloaded into your USB device. Wait until this
 
 Step 9: Plug your USB Device (as a bootable device now) with Windows 10 installer into a new PC.
 
-
 Step 10: Turn on your new computer and access the BIOS/UEFI (typically using F2, F10, or Del). Change boot order.
 ![alt text](pic9.png)
 
@@ -101,9 +100,7 @@ https://www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/
 I started first by creating a GitHub account and these were the steps
 
 Step 1: I searched for GitHub on my google chrome browser and opened the GitHub homepage: [https://github.com]
-
 Step 2: To Sign Up for a New Account.  Click on the "Sign up" button located at the top right corner of the page. 
-
 Step 3: Enter Your Details
    - Username: Choose a unique username that will represent you on GitHub. My username is Mosapi25.
    - Email Address: Enter your email address. This will be used for account verification and notifications.
@@ -116,8 +113,7 @@ Step 5: Choose a Plan
 GitHub offers both free and paid plans. Select the "Free" plan if you are just starting out. You can always upgrade later if you need more features.
 
 Step 6: Verify Your Email Address
-
-   - GitHub will send a verification email to the address you provided. Go to your email inbox, open the verification email, and click the "Verify email address" button.
+GitHub will send a verification email to the address you provided. Go to your email inbox, open the verification email, and click the "Verify email address" button.
 
 Step 7: Explore and start using GitHub
 Once your email is verified, you can start exploring GitHub. You may be guided through a brief tutorial on how to use GitHub, including creating your first repository and exploring existing projects.
@@ -208,13 +204,13 @@ Source: https://phoenixnap.com/kb/how-to-install-git-windows
 
 
 6. Install Necessary Programming Languages and Runtimes:
-  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 Step-by-Step Guide to Install Python
 1. Download Python
-Go to the official Python website: https://www.python.org/, and download the latest version of the Python installer for Windows
-.
-2. Install Python
+Go to the official Python website: https://www.python.org/, and download the latest version of the Python installer for Windows.
+
+3. Install Python
 
 Step 2: Run the Python Installer
 Locate the downloaded python-*.exe file in your downloads folder and double-click it to start the installation process.
@@ -224,7 +220,6 @@ Add Python to PATH:
 
 Check the box labelled "Add Python to PATH" at the bottom of the installer window.
 Customise Installation:
-
 Step 4: Optional Features
 Ensure the following optional features are checked:
 Documentation
